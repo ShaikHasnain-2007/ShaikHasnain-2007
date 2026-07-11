@@ -5,12 +5,17 @@
   </a>
 </div>
 
+<p align="center">
+  <!-- Stable Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=ShaikHasnain-2007&label=Profile%20Views&color=8A2BE2&style=flat-square" alt="Profile Views" />
+</p>
+
 <h3 align="center">Building intelligent systems & scalable architectures.</h3>
 
 <br/>
 
 ## 👨‍💻 About Me
-I'm an undergraduate pursuing my B.Tech in CSE (AI/ML) at SRM University-AP. As a day scholar commuting to campus, I balance my coursework with high-intensity hackathons, managing the *dayscholar_diaries* page, and occasionally unwinding on the basketball court. Right now, I'm highly focused on engineering full-stack applications and training localized AI models—pushing my trusty NVIDIA MX450 GPU to its absolute limits!
+I'm an undergraduate pursuing my B.Tech in CSE (AI/ML) at SRM University-AP. Standing at 6'4", I used to dominate the court as a district-level basketball player, but these days my focus is entirely on engineering full-stack applications and generating precise, cinematic digital AI concepts. As a day scholar commuting to campus, I balance my coursework with rapid-fire hackathons, managing the *dayscholar_diaries* page, and pushing my trusty NVIDIA MX450 GPU to its absolute limits to build and train localized AI models.
 
 ## 🚀 Experience & Hackathons
 * **Quantum Computing Conclave (QC²):** Pitched machine learning concepts for the Quantum ML track.
@@ -20,7 +25,7 @@ I'm an undergraduate pursuing my B.Tech in CSE (AI/ML) at SRM University-AP. As 
 ## 🛠️ Tech Arsenal
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,ts,js,html,vscode,github,firebase&perline=8" alt="Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=py,cpp,ts,js,html,vscode,github,firebase,cursor&perline=9" alt="Tech Stack"/>
   </a>
 </p>
 
@@ -33,8 +38,8 @@ I'm an undergraduate pursuing my B.Tech in CSE (AI/ML) at SRM University-AP. As 
 | 🎮 **Mini Quiz Game** | `SYSTEMS`| Modular C++ application featuring live scoring systems. |
 
 ## 📊 GitHub Analytics
+<!-- Using only the highly stable Streak API to prevent broken images -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShaikHasnain-2007&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaikHasnain-2007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
