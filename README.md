@@ -10,12 +10,12 @@
 <br/>
 
 ## 👨‍💻 About Me
-I am a B.Tech CSE (AI/ML) student at SRM University-AP. As a day scholar commuting to campus, I balance my academic coursework with high-intensity hackathons and full-stack engineering projects. When I'm not coding, I'm likely managing my campus page, *dayscholar_diaries*.
+I'm an undergraduate pursuing my B.Tech in CSE (AI/ML) at SRM University-AP. As a day scholar commuting to campus, I balance my coursework with high-intensity hackathons, managing the *dayscholar_diaries* page, and occasionally unwinding on the basketball court. Right now, I'm highly focused on engineering full-stack applications and training localized AI models—pushing my trusty NVIDIA MX450 GPU to its absolute limits!
 
 ## 🚀 Experience & Hackathons
-* **Quantum Computing Conclave (QC²):** Pitched concepts for the Quantum Machine Learning track.
-* **Code to Connect:** Built **SafeEcho**, a single-page HTML/JS application during the 12-hour sprint.
-* **My1stHack:** Formed a team to brainstorm and engineer solutions for the freshers-only event.
+* **Quantum Computing Conclave (QC²):** Pitched machine learning concepts for the Quantum ML track.
+* **Code to Connect:** Engineered **SafeEcho**, a single-page HTML/JS application deployed during the 12-hour sprint.
+* **My1stHack:** Formed a team to brainstorm and build rapid solutions for the freshers-only event.
 
 ## 🛠️ Tech Arsenal
 <p align="center">
@@ -25,15 +25,18 @@ I am a B.Tech CSE (AI/ML) student at SRM University-AP. As a day scholar commuti
 </p>
 
 ## 💡 Featured Architecture
-* **CampusX:** A full-stack engineering copilot leveraging a multi-AI consensus architecture.
-* **FRIDAY:** A localized, Python-based AI desktop voice assistant.
-* **Mini Quiz Game:** A modular C++ application featuring live scoring systems.
+
+| Project | Designation | Description |
+| :--- | :---: | :--- |
+| 🧠 **CampusX** | `FULL-STACK` | Engineering copilot leveraging a multi-AI consensus architecture. |
+| ⚡ **FRIDAY** | `AI-CORE` | Localized, Python-based AI desktop voice assistant. |
+| 🎮 **Mini Quiz Game** | `SYSTEMS`| Modular C++ application featuring live scoring systems. |
 
 ## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShaikHasnain-2007&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShaikHasnain-2007&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaikHasnain-2007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+</div>
 
 <br/>
 
@@ -42,7 +45,7 @@ I am a B.Tech CSE (AI/ML) student at SRM University-AP. As a day scholar commuti
   <a href="mailto:shaikhasnain2007@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email"/>
   </a>
-  <a href="https://instagram.com/dayscholar_diaries">
+  <a href="https://instagram.com/shaik_hasnain99">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
   </a>
 </p>
