@@ -1,0 +1,11 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated skills (0-100).",
+  "axes": [
+    { "label": "Python",              "value": 92 },
+    { "label": "Full-Stack Web",      "value": 88 },
+    { "label": "AI/ML & APIs",        "value": 85 },
+    { "label": "UI/UX & Animations",  "value": 80 },
+    { "label": "C++",                 "value": 75 }
+  ]
+}

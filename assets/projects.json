@@ -1,0 +1,21 @@
+{
+  "_comment": "Featured repos in README order. Star/fork/language are fetched live on every workflow run.",
+  "projects": [
+    {
+      "repo": "Portfolio",
+      "description": "An immersive, high-performance creative portfolio showcase featuring fluid scroll animations, interactive canvas rendering, and a custom AI Chat Widget."
+    },
+    {
+      "repo": "CampusX",
+      "description": "A 3-AI Consensus Engine built for HackSRM Vibecraft that debates and resolves engineering questions using Gemini, Llama, and Mistral."
+    },
+    {
+      "repo": "Neo-Booth",
+      "description": "An in-browser AI selfie background eraser with retro virtual backgrounds and animated GIF boomerang live photo strip capture."
+    },
+    {
+      "repo": "Trueview",
+      "description": "A state-of-the-art cybersecurity and decentralized news verification portal featuring a live 3D global intelligence map."
+    }
+  ]
+}
