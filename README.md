@@ -7,12 +7,12 @@
 
 <!-- NAME / TAGLINE - animated typing -->
 <a href="https://github.com/ShaikHasnain-2007">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=650&lines=Shaik+Hasnain;Full-Stack+Engineer+%26+AI%2FML+Specialist;Pushing+NVIDIA+hardware+to+its+limits;Building+intelligent+systems+%26+scalable+architectures;Former+District-Level+Basketball+Player" alt="typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=650&lines=Shaik+Hasnain;Full-Stack+Engineer+%26+AI%2FML;NVIDIA+Hardware+%26+Local+AI;Building+Intelligent+Systems;6%274%22+Former+District+Hooper" alt="typing banner">
 </a>
 
 <br>
 
-<!-- SOCIALS -->
+<!-- SOCIALS & BADGES -->
 <a href="https://www.linkedin.com/in/shaik-hasnain-sh0709"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:shaikhasnain2007@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://shaikhasnain0709.web.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
@@ -30,12 +30,13 @@
 $ cat about.txt
 ```
 
-Hi, I'm **Shaik Hasnain**. I'm a **B.Tech CSE (AI/ML)** undergraduate at **SRM University-AP** who balances coursework with rapid-fire hackathons. I specialize in engineering full-stack applications and generating precise digital AI concepts.
+Hi, I'm **Shaik Hasnain** — a 6'4" developer and **B.Tech CSE (AI/ML)** undergraduate at **SRM University-AP**. I balance coursework with rapid-fire hackathons, managing the *dayscholar_diaries* community, and engineering intelligent full-stack applications with localized AI architectures.
 
 - 🔭 Currently building **[Neo-Booth](https://github.com/ShaikHasnain-2007/Neo-Booth)** — an in-browser AI selfie background eraser with retro virtual backgrounds
 - 🌐 Portfolio: **[shaikhasnain0709.web.app](https://shaikhasnain0709.web.app/)**
+- 🏆 Hackathons: **Quantum Computing Conclave (QC²)** (QML track) • **Code to Connect** (SafeEcho) • **HackSRM Vibecraft** (CampusX 3-AI Consensus)
 - ⚡ Learning: **Advanced local AI orchestration & cinematic 1990s retro aesthetics**
-- 🏀 Fun fact: **"You need to run before you can walk"**
+- 🏀 Fun fact: **"You need to run before you can walk"** (Former District-Level Basketball Player)
 
 <br>
 
@@ -192,6 +193,6 @@ Hi, I'm **Shaik Hasnain**. I'm a **B.Tech CSE (AI/ML)** undergraduate at **SRM U
 
 <div align="center">
 
-<sub>`01110100 01101000 01100001 01101110 01101011 01110011 00100000 01100110 01101111 01110010 00100000 01110011 01100011 01100010 01101111 01101100 01101100 01101001 01101110 01100111`</sub>
+<sub>`01110100 01101000 01100001 01101110 01101011 01110011 00100000 01100110 01101111 01110010 00100000 01110011 01100011 01110010 01101111 01101100 01101100 01101001 01101110 01100111`</sub>
 
 </div>
