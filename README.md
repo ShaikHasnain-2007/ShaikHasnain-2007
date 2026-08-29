@@ -5,7 +5,7 @@
 
 <br>
 
-<!-- NAME / TAGLINE - animated typing banner -->
+<!-- NAME / TAGLINE - animated typing -->
 <a href="https://github.com/ShaikHasnain-2007">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=650&lines=Shaik+Hasnain;Full-Stack+Engineer+%26+AI%2FML;NVIDIA+Hardware+%26+Local+AI;Building+Intelligent+Systems;6%274%22+Former+District+Hooper" alt="typing banner">
 </a>
@@ -34,60 +34,19 @@ Hi, I'm **Shaik Hasnain** — a 6'4" developer and **B.Tech CSE (AI/ML)** underg
 
 - 🔭 Currently building **[Neo-Booth](https://github.com/ShaikHasnain-2007/Neo-Booth)** — an in-browser AI selfie background eraser with retro virtual backgrounds
 - 🌐 Portfolio: **[shaikhasnain0709.web.app](https://shaikhasnain0709.web.app/)**
+- 🏆 Hackathons: **Quantum Computing Conclave (QC²)** (QML track) • **Code to Connect** (SafeEcho) • **HackSRM Vibecraft** (CampusX 3-AI Consensus)
 - ⚡ Learning: **Advanced local AI orchestration & cinematic 1990s retro aesthetics**
 - 🏀 Fun fact: **"You need to run before you can walk"** (Former District-Level Basketball Player)
 
----
+<br>
 
-## `~/` hardware & ai-lab
+<div align="center">
 
-```console
-$ nvidia-smi --query-gpu=name,compute_cap,driver_version --format=csv
-name, compute_cap, driver_version
-NVIDIA GeForce MX450, 7.5 (Turing), 550.54.14 (CUDA 12.4 enabled)
+## `~/` toolbox
 
-$ cat ~/.config/ai-environment.json
-{
-  "runtime": "Local AI Orchestration & Edge Inference",
-  "local_llms": ["Ollama", "Llama 3", "Mistral 7B", "Gemma"],
-  "multimodal_stack": ["MediaPipe Background Eraser", "Three.js 3D Viewport", "GSAP Inertia"],
-  "inference_target": "Optimized low-latency neural pipelines on local GPU hardware"
-}
-```
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nextjs,tailwind,nodejs,express,html,css,firebase,vercel,vscode,github&perline=15" alt="tech stack">
 
----
-
-## `~/` hackathon hall of fame
-
-| Event / Hackathon | Project & Role | Track / Achievement | Tech Stack |
-| :--- | :--- | :--- | :--- |
-| **HackSRM Vibecraft** | **[CampusX](https://github.com/ShaikHasnain-2007/CampusX)** | 3-AI Multi-LLM Consensus Debate Engine | `Next.js` `FastAPI` `Gemini + Llama` |
-| **Quantum Computing Conclave (QC²)** | **QML Pitch** | Machine Learning Track Concept Presenter | `Python` `Quantum ML` `Algorithms` |
-| **Code to Connect** | **SafeEcho** | Built & Deployed in 12-Hour Hackathon Sprint | `HTML5` `JavaScript` `Security` |
-| **My1stHack** | **Idea Pitch & Prototype** | Fast-Track Prototyping & Team Lead | `React` `Vite` `Full-Stack` |
-
----
-
-## `~/` categorized toolbox
-
-<table>
-<tr>
-  <td width="25%" valign="top"><b>🧠 AI / ML & Compute</b></td>
-  <td width="75%"><img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow,opencv&perline=8" alt="AI Stack"></td>
-</tr>
-<tr>
-  <td width="25%" valign="top"><b>🎨 Frontend & Creative Tech</b></td>
-  <td width="75%"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,threejs,vite&perline=9" alt="Frontend Stack"></td>
-</tr>
-<tr>
-  <td width="25%" valign="top"><b>⚙️ Backend, DB & Systems</b></td>
-  <td width="75%"><img src="https://skillicons.dev/icons?i=nodejs,express,cpp,postgres,mongodb,firebase&perline=8" alt="Backend Stack"></td>
-</tr>
-<tr>
-  <td width="25%" valign="top"><b>🚀 DevOps, Cloud & Tools</b></td>
-  <td width="75%"><img src="https://skillicons.dev/icons?i=vercel,git,github,vscode,linux,powershell&perline=8" alt="DevOps Stack"></td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -234,29 +193,6 @@ $ cat ~/.config/ai-environment.json
 
 <div align="center">
 
-## `~/` vibe coding & soundtrack
-
-<a href="https://open.spotify.com">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=shaik_hasnain&cover_image=true&theme=novacustom&bar_color=39d353&bar_color_cover=true" width="450" alt="Spotify Vibe Coding" onerror="this.src='https://img.shields.io/badge/Spotify-Coding_Session-1DB954?style=for-the-badge&logo=spotify&logoColor=white'">
-</a>
-
-</div>
-
----
-
-## `~/` recent activity
-
-<!--START_SECTION:activity-->
-1. 🚀 Pushed commits to [ShaikHasnain-2007/ShaikHasnain-2007](https://github.com/ShaikHasnain-2007/ShaikHasnain-2007)
-2. 🛠️ Built [Neo-Booth](https://github.com/ShaikHasnain-2007/Neo-Booth) - AI Selfie Background Eraser
-3. ⚡ Engineered [CampusX](https://github.com/ShaikHasnain-2007/CampusX) for HackSRM Vibecraft
-4. 🌐 Deployed [Portfolio](https://github.com/ShaikHasnain-2007/Portfolio) with GSAP & Canvas
-<!--END_SECTION:activity-->
-
----
-
-<div align="center">
-
-<sub>`01110100 01101000 01100001 01101110 01101011 01110011 00100000 01100110 01101111 01110010 00100000 01110011 01100011 01100010 01101111 01101100 01101100 01101001 01101110 01100111`</sub>
+<sub>`01110100 01101000 01100001 01101110 01101011 01110011 00100000 01100110 01101111 01110010 00100000 01110011 01100011 01110010 01101111 01101100 01101100 01101001 01101110 01100111`</sub>
 
 </div>
