@@ -15,10 +15,15 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
+      - name: Skip when METRICS_TOKEN is unavailable
+        if: ${{ secrets.METRICS_TOKEN == '' }}
+        run: echo "::notice::METRICS_TOKEN is not configured, skipping metrics generation."
+
       # ------------------------------------------------------------------ #
       # The 3D isometric contribution calendar (the one from the inspo)
       # ------------------------------------------------------------------ #
       - name: Isometric contribution calendar
+        if: ${{ secrets.METRICS_TOKEN != '' }}
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -33,6 +38,7 @@ jobs:
       # Coding habits: commits per hour of day, per weekday, language activity
       # ------------------------------------------------------------------ #
       - name: Coding habits
+        if: ${{ secrets.METRICS_TOKEN != '' }}
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -51,6 +57,7 @@ jobs:
       # Language breakdown (bytes-weighted, recent-activity weighted)
       # ------------------------------------------------------------------ #
       - name: Languages
+        if: ${{ secrets.METRICS_TOKEN != '' }}
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -69,6 +76,7 @@ jobs:
       # github-profile-trophy, whose public instance returns 402 (out of quota)
       # ------------------------------------------------------------------ #
       - name: Achievements
+        if: ${{ secrets.METRICS_TOKEN != '' }}
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
